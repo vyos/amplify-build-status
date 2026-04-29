@@ -55,7 +55,3 @@ No mirror twin.
 - Likely a fork or rewrite of `duckbytes/amplify-build-status` (README example references that source).
 - License: MIT.
 - AWS credentials are passed via env from the calling workflow — never bake them into the image.
-
----
-
-This file is mirrored on Confluence: [`vyos/amplify-build-status`](https://internal.confluence.vyos.com/wiki/spaces/VYOS/pages/818282850). The Confluence page also carries the per-repo audit data (settings, workflows, secret counts, hygiene) that complements this CLAUDE.md. Edit either side; resync via the documentation pipeline.
