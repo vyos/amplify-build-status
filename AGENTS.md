@@ -27,7 +27,7 @@ Used as a step inside a consumer workflow:
     AWS_REGION:            ${{ secrets.AWS_REGION }}
 ```
 
-To test locally: `docker build -t amplify-status .` then run `docker run amplify-status <app-id> <branch> <commit> <wait> <timeout> <no-fail>` with AWS env vars set.
+To test locally: `docker build -t amplify-status.` then run `docker run amplify-status <app-id> <branch> <commit> <wait> <timeout> <no-fail>` with AWS env vars set.
 
 ## Repository layout
 
