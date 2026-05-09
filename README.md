@@ -58,3 +58,5 @@ Amplify will successfully complete the new build, but it is necessary click `(Ed
 
 If you are connecting a branch to Amplify for the first time, the commit-id may be `HEAD` instead of the commit sha.
 Any subsequent builds triggered by commits will use the actual commit sha.
+
+<!-- T8765/T8766 CodeRabbit central-baseline verification probe — 2026-05-09 -->
